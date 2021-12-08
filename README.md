@@ -1,3 +1,3 @@
-# obs-images
+# obs-config
 
-Images used in my OBS scenes.
+Carlos's OBS configs.
